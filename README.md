@@ -1,7 +1,7 @@
 # Scanning-Tunneling-Microscope
 
 
-In first year, we were given a challenge to design and build a scanning tunnelling microscope with limited parts and limited guidance. 
+In first year, we were given a challenge to design and build a scanning tunnelling microscope with limited parts and limited guidance. This challenged was comprised of 
 
 
 ![image](STM_data3.PNG)
