@@ -23,7 +23,8 @@ Overall, we were awarded best design and our group was the only one able to actu
 Vibration isolation
 =
 
-When creating a vibration isolation system, we were only allowed to use a small variety of parts due to the nature of the design challenge. We were allowed to use acrylic plates (which could be laser-cut to our specifications) as well as a handful of tension springs and a very small selection of compression springs. We also used rubber strips and hot glue. Without the restraints on building materials our design would have differed greatly, but we had to make do. In the end, our design worked very well and was able to quickly dampen even massive vibrations, as shown in <a href="http://www.youtube.com/watch?v=Xzelec5LNmc">this video</a>.
+When creating a vibration isolation system, we were only allowed to use a small variety of parts due to the nature of the design challenge. We were allowed to use acrylic plates (which could be laser-cut to our specifications) as well as a handful of tension springs and a very small selection of compression springs. We also used rubber strips and hot glue. Without the restraints on building materials our design would have differed greatly, but we had to make do. In the end, our design worked very well and was able to quickly dampen even massive vibrations, as demonstrated in <a href="http://www.youtube.com/watch?v=Xzelec5LNmc">this video</a> and the following photo.
+![image](Misc/20200310_162036.jpg)
 
 Creating the STM tip
 =
