@@ -5,15 +5,15 @@ Summary
 
 In first year, we were given a challenge to design and build a Scanning Tunnelling Microscope (STM) with limited parts and limited guidance. This challenge was comprised of multiple steps, including:
 
- -Planning and creating a vibration isolation system to dampen ambient micro- and nano-scale vibrations to allow for less noisy measurements
+ - Planning and creating a vibration isolation system to dampen ambient micro- and nano-scale vibrations to allow for less noisy measurements
  
- -Taking advantage of redox reactions to create a tungsten tip for the STM which is sharp on the nano-scale
+ - Taking advantage of redox reactions to create a tungsten tip for the STM which is sharp on the nano-scale
  
- -Using CAD software to model the STM setup
+ - Using CAD software to model the STM setup
  
- -Conducting tests to obtain the surface topography of a CD
+ - Conducting tests to obtain the surface topography of a CD
  
- -Data analysis using MATLAB to view the results
+ - Data analysis using MATLAB to view the results
 
 Overall, we were awarded best design and our group was the only one able to actually obtain somewhat clear data, as shown in the photo below. In this photo, all the axes are in nanometers. Sinusoidal noise is very evident in this data, likely due to the AC signal used in the STM setup.
 ![image](STM_data3.PNG)
