@@ -8,5 +8,4 @@ In first year, we were given a challenge to design and build a scanning tunnelli
 
 
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xzelec5LNmc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![](http://img.youtube.com/vi/Xzelec5LNmc/0.jpg)](http://www.youtube.com/watch?v=Xzelec5LNmc "")
