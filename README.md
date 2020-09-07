@@ -49,4 +49,7 @@ Data Analysis
 
 Using MATLAB, we interpreted our results using a 3D graph. Filtering out all bad values (where the STM was unable to get a true tunnelling current), we finally obtained the data as seen in the first photo. This data shows that our STM did actually work as intended (with the largest source of noise being sinusoidal from the signal generator itself). In the following photo, there is a small amount of noise at the start of the sample (shown by blue arrows). When reading the sample, the tip started in the upper right corner and moved to the left, moving in a snake pattern across the entire sample. As shown in the red circles, there are multiple areas where 3D topography is reported many times - this is indicative of actual 3D features on the CD - proving that the STM worked. Near the end of the rasterization, there are still features reported multiple times but they are offset by a certain amount each. These still show 3D features, but due to a software error they are not shown in the correct place.
 
-![image](Msic/STM_data_for_markdown.PNG)
+![image](Misc/STM_data_for_markdown.PNG)
+
+
+Overall, our STM won best overall design for a few reasons, including the fact that our vibration isolation worked well and that our STM was able to obtain realistic data of the topography of a CD.
