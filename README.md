@@ -4,4 +4,4 @@
 
 
 
-![image](../STM_data3.PNG)
+![image](STM_data3.PNG)
